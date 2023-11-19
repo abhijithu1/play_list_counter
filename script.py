@@ -1,4 +1,4 @@
-import pytube,os
+import pytube
 # Video playlist length calculator 
 
 
